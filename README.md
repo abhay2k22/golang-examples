@@ -1,6 +1,6 @@
 # golang-examples
-# cliSolveCaptcha 
-solveCaptcha utility can be use for command line clients to validate actual users.
+# cliCaptcha 
+cliCaptcha utility can be use for command line clients to validate actual users.
 
 # License
 Copyright 2018 Abhay Goel
